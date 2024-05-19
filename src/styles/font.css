@@ -1,0 +1,49 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/NotoSansSemiBold.ttf");
+  font-family: "Noto Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OswaldBold.ttf");
+  font-family: "Oswald";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/NotoSans.ttf");
+  font-family: "Noto Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/LexendBold.ttf");
+  font-family: "Lexend";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/LexendRegular.ttf");
+  font-family: "Lexend";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/LexendSemiBold.ttf");
+  font-family: "Lexend";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterRegular.ttf");
+  font-family: "Inter";
+  font-weight: 400;
+}
